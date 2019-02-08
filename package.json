@@ -1,0 +1,16 @@
+{
+  "name": "armcontroller",
+  "version": "1.0.0",
+  "description": "johnny-five controller for ARM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florent Boutin",
+  "license": "ISC",
+  "dependencies": {
+    "firmata": "^2.0.0",
+    "johnny-five": "^1.0.0",
+    "keypress": "^0.2.1"
+  }
+}
